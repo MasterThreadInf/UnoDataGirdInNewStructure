@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "App4.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
